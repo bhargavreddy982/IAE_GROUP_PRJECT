@@ -11,7 +11,7 @@ IAE GROUP PROJECT
 npm i
 ```
 
-2.Create a .env file in District-chat-App folder
+2.Create a .env file in folder
 
 3.In .env file add these two lines:
 
@@ -25,4 +25,4 @@ npm i
 ```bash
 npm run start
 ```
-5. [GitHub link](https://github.com/Navaneeth-22/git.fsd_Team)
+
